@@ -1,0 +1,7 @@
+build/lib/mypwn/__init__.py
+build/lib/mypwn/core.py
+mypwn.egg-info/dependency_links.txt
+mypwn.egg-info/PKG-INFO
+mypwn.egg-info/requires.txt
+mypwn.egg-info/SOURCES.txt
+mypwn.egg-info/top_level.txt
